@@ -61,7 +61,7 @@ The boilerplate is already prepared to have a popup, an options page, a backgrou
 
 ## TypeScript
 
-This boilerplate now supports TypeScript! The `Options` Page is implemented using TypeScript. Please refer to `src/pages/Options/` for example usages.
+This boilerplate now supports TypeScript! The `Offscreen` Page is implemented using TypeScript. Please refer to `src/pages/Offscreen/` for example usages.
 
 ## Webpack auto-reload and HRM
 
